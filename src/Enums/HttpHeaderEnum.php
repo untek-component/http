@@ -16,6 +16,7 @@ class HttpHeaderEnum
     const TIME_ZONE = 'Time-Zone';
     const CONTENT_TYPE = 'Content-Type';
     const AUTHORIZATION = 'Authorization';
+    const LOCATION = 'Location';
     const ACCESS_TOKEN = 'Access-Token';
     const CONTENT_DISPOSITION = 'Content-Disposition';
     const X_REQUESTED_WITH = 'X-Requested-With';
